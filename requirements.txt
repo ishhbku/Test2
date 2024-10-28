@@ -1,7 +1,2 @@
-torch>=2.0.0
-torchvision>=0.15.0
--f https://download.pytorch.org/whl/torch_stable.html
-pillow>=9.3.0
-gradio>=3.0.15
+gradio
 gunicorn
-numpy
